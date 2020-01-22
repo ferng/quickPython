@@ -1,0 +1,13 @@
+#editor
+*~
+*.swp
+tags
+
+
+#build
+__pycache__
+
+
+# System Files
+.DS_Store
+Thumbs.db
